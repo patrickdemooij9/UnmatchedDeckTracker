@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnmatchedDeckTracker", "UnmatchedDeckTracker\UnmatchedDeckTracker.csproj", "{C24EDDB9-FBC7-4844-86A7-17A75DC7EAA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C24EDDB9-FBC7-4844-86A7-17A75DC7EAA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24EDDB9-FBC7-4844-86A7-17A75DC7EAA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24EDDB9-FBC7-4844-86A7-17A75DC7EAA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24EDDB9-FBC7-4844-86A7-17A75DC7EAA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD2D2173-7B4C-4288-BB49-210E92FA4B73}
+	EndGlobalSection
+EndGlobal
